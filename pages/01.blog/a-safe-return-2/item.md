@@ -1,5 +1,5 @@
 ---
-title: 'A Safe Return 2'
+title: 'Treasures of Exploration'
 media_order: F5B9BFBD-F514-42A7-A454-F4E340E657D6.jpeg
 date: '18:17 15-08-2018'
 taxonomy:
@@ -19,6 +19,6 @@ feed:
 ---
 
 ![](F5B9BFBD-F514-42A7-A454-F4E340E657D6.jpeg)  
-A Safe Return, _2018_  
-Oil and chalk on plywood  
-29 x 29 cm
+Treasures of Exploration, _2018_  
+Acrylic on canvas  
+100 x 100 cm
