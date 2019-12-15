@@ -2,7 +2,7 @@
 title: Blog
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent'
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient parallax'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-tiny parallax'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
