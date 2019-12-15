@@ -12,4 +12,6 @@ feed:
     limit: 10
 ---
 
-![](0BA3D1BA-00B2-4D2F-A95D-3CBEB324625F.jpeg)
+![](0BA3D1BA-00B2-4D2F-A95D-3CBEB324625F.jpeg)  
+Oil on plywood  
+29 x 29 cm
