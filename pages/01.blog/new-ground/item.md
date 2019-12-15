@@ -1,6 +1,11 @@
 ---
 title: 'New Ground'
 date: '18:06 15-08-2018'
+taxonomy:
+    tag:
+        - 'Three Feet in the Air'
+        - 'Oil on wood'
+        - Square
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
