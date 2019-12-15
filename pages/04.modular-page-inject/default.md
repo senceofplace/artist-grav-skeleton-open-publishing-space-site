@@ -17,4 +17,5 @@ This is example **modular** page, where where content from module pages of **ano
 [plugin:content-inject](/modular-page-inject/_cc-by-nc)  
 [plugin:content-inject](/modular-page-inject/_cc-by-nc-nd)  
 [plugin:content-inject](/modular-page-inject/_cc-by-nc-sa)  
-[plugin:content-inject](/modular-page-inject/_cc-by-nd)  
+[plugin:content-inject](/modular-page-inject/_cc-by-nd)
+[plugin:content-inject](/modular-page-inject/_treasures-of-exploration)  
