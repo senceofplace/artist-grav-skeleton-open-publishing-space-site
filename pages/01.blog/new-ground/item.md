@@ -13,5 +13,6 @@ feed:
 ---
 
 ![](0BA3D1BA-00B2-4D2F-A95D-3CBEB324625F.jpeg)  
+New Ground, _2018_  
 Oil on plywood  
 29 x 29 cm
