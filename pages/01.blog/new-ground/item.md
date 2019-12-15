@@ -12,8 +12,4 @@ feed:
     limit: 10
 ---
 
-Your page summary goes here.
-
-===
-
-Your page content goes here.
+![](0BA3D1BA-00B2-4D2F-A95D-3CBEB324625F.jpeg)
