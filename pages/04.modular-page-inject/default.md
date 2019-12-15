@@ -3,6 +3,7 @@ title: Modular
 published: true
 hide_git_sync_repo_link: false
 body_classes: modular
+visible: false
 onpage_menu: false
 page-inject:
     processed_content: false
