@@ -1,7 +1,10 @@
 ---
-title: 'Subsection Two'
+title: '128 Show'
 taxonomy:
-    tag: [view1]
+    tag:
+        - view1
+hide_git_sync_repo_link: false
+hide_page_title: false
 ---
 
 Vivamus malesuada lacinia ante vitae tincidunt. Etiam hendrerit cursus tortor quis placerat. Suspendisse tincidunt mi tellus, a eleifend turpis egestas quis. Nunc vulputate enim a maximus iaculis. Cras at nisi nec dolor ullamcorper dapibus. Etiam in leo non tellus pretium ultricies. Duis non quam imperdiet, sodales est in, volutpat risus.
