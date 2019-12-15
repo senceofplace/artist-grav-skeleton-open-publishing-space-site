@@ -33,4 +33,4 @@ pagination: true
 ---
 
 # Joe's **Open Publishing** Space
-## Creation's Coming Soon
+## Creations Coming Soon
