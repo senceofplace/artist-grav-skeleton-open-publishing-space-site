@@ -5,8 +5,8 @@ date: '18:17 15-08-2018'
 taxonomy:
     tag:
         - 'Three Feet in the Air'
-        - 'Acrylic on canvas'
         - Square
+        - 'Acrylic on canvas'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -19,6 +19,7 @@ feed:
 ---
 
 ![](15CF21FA-18A4-4621-881F-A3DF34D1A6E4.jpeg)  
+  
 Treasures of Exploration, _2018_  
 Acrylic on canvas  
 100 x 100 cm
