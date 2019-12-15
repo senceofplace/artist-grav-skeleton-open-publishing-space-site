@@ -34,5 +34,5 @@ modular_content:
 pagination: true
 ---
 
-# Joe's **Open Publishing** Space
-## Creations Coming Soon
+# **Joe Ainsworth**
+## Painting Portfolio
