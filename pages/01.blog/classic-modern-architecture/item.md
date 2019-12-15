@@ -1,5 +1,6 @@
 ---
 title: 'Classic Modern Architecture'
+published: false
 date: '17:34 06/27/2017'
 taxonomy:
     category:
@@ -7,12 +8,18 @@ taxonomy:
     tag:
         - photography
         - architecture
+hide_git_sync_repo_link: false
 hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
 hero_image: unsplash-luca-bravo.jpg
+header_image_alt_text: 'Modern building'
 blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10
 subtitle: 'finding beauty in structure'
-
-header_image_alt_text: Modern building
 ---
 
 Lorem markdownum timore *in*, dant litora texit late **fecisse**. Sinistra ad
