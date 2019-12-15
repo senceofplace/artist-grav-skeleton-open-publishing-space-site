@@ -3,6 +3,7 @@ title: Paintings
 published: true
 hide_git_sync_repo_link: false
 hide_page_title: true
+visible: false
 content:
     items: '@self.children'
     order:
