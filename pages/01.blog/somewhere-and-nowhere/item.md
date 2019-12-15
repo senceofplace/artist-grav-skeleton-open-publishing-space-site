@@ -14,6 +14,6 @@ feed:
 ---
 
 ![](3EEEB749-F57F-4759-BDBF-3DA10AF8A7A8.jpeg)  
-Somewhere and Nowhere, _2018_
+Somewhere and Nowhere, _2018_  
 Oil on plywood  
 29 x 29 cm
