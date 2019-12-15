@@ -4,6 +4,7 @@ media_order: 'mountain.jpg,30D09D88-6A83-4F28-80EB-794EB2610A3A.jpeg'
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_image: 30D09D88-6A83-4F28-80EB-794EB2610A3A.jpeg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
