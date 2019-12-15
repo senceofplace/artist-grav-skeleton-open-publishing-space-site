@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-[![A Safe Return](F5B9BFBD-F514-42A7-A454-F4E340E657D6.jpeg)(/blog/a-safe-return)]   
+[![A Safe Return](F5B9BFBD-F514-42A7-A454-F4E340E657D6.jpeg)](/blog/a-safe-return)
 A Safe Return, _2018_  
 Oil and chalk on plywood  
 29 x 29 cm
