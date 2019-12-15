@@ -32,5 +32,5 @@ feed:
 pagination: true
 ---
 
-# My **Open Publishing** Space
+# Joe's **Open Publishing** Space
 ## Create, Share and Collaborate
