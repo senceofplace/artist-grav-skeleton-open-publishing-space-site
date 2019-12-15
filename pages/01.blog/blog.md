@@ -35,4 +35,4 @@ pagination: true
 ---
 
 # **Joe Ainsworth**
-## Painting Portfolio
+### Painting Portfolio
