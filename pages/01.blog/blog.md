@@ -4,7 +4,7 @@ media_order: studio.jpg
 hide_git_sync_repo_link: true
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
-hero_image: 30D09D88-6A83-4F28-80EB-794EB2610A3A.jpeg
+hero_image: studio.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
