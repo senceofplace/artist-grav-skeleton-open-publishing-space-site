@@ -21,5 +21,5 @@ feed:
 
 ![](paint-geology-3.jpg)
 Paint Geology 3, _2018_  
-Acrylic and wood filler on MDF
+Acrylic and wood filler on MDF  
 60 x 60 cm
