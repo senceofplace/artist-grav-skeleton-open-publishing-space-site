@@ -20,5 +20,5 @@ feed:
 
 ![](Geodesic_reification.jpg)
 Geodesic Reification  
-Acrylic Paint on Laser Cut Plywood
+Acrylic Paint on Laser Cut Plywood  
 130 x 130 x 100 cm
