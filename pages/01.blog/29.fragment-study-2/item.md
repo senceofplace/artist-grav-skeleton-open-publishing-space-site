@@ -1,6 +1,12 @@
 ---
 title: 'Fragment Study 2'
-date: '19:14 03-02-2020'
+media_order: Fragment-Study-2.jpg
+date: '19:14 14-02-2018'
+taxonomy:
+    tag:
+        - Square
+        - 'MA Show 2018'
+        - 'Acrylic on MDF'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -11,6 +17,7 @@ feed:
     limit: 10
 ---
 
+![](Fragment-Study-2.jpg)
 Fragment Study 2, _2018_  
 Acrylic on Canvas  
 60 x 60 cm
