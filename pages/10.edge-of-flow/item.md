@@ -1,6 +1,7 @@
 ---
 title: 'Edge of Flow'
 media_order: 'IMG_1443 copy.jpg'
+published: true
 date: '16:07 06-01-2019'
 hide_git_sync_repo_link: false
 blog_url: /blog
