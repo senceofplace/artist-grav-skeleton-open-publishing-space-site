@@ -1,6 +1,7 @@
 ---
 title: 'Fragment Study 1'
-date: '19:11 03-02-2020'
+media_order: Fragment-study-1.jpg
+date: '19:11 08-03-2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -11,6 +12,7 @@ feed:
     limit: 10
 ---
 
+![](Fragment-study-1.jpg)
 Fragment Study 1, _2018_  
 Acrylic on MDF  
 60 x 60 cm  
