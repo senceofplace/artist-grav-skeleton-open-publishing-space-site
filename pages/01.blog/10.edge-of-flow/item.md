@@ -7,6 +7,7 @@ taxonomy:
     tag:
         - 'Oil on Canvas'
         - 'MA Show 2019'
+        - Square
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
