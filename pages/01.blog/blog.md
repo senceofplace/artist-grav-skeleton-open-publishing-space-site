@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Home
 media_order: studio.jpg
 hide_git_sync_repo_link: true
 body_classes: 'header-dark header-transparent'
