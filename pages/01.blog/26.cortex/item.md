@@ -4,8 +4,8 @@ media_order: cortex.jpg
 date: '19:00 02-05-2018'
 taxonomy:
     tag:
-        - 'Acrylic on canvas'
         - Square
+        - 'Acrylic on canvas'
         - 'MA Show 2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -20,5 +20,5 @@ feed:
 
 ![](cortex.jpg)  
 Cortex, _2018_  
-Acrylic on Canvas  
+Acrylic and Chalk on Canvas  
 100 x 100 cm  
