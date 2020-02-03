@@ -21,6 +21,7 @@ feed:
     limit: 10
 ---
 
+![](sweet_abandon.jpg)
 Sweet Abandon, _2019_  
 Oil on Canvas  
 100 x 100 cm
