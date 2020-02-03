@@ -12,7 +12,7 @@ feed:
     limit: 10
 ---
 
-![](_MG_8823%20copy.jpg)  
+![](_MG_8823-copy.jpg)
 Choreography, _2019_  
 Oil on Canvas  
 100 x 100 cm
