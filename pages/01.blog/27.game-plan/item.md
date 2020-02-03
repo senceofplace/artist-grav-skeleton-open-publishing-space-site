@@ -1,7 +1,12 @@
 ---
 title: 'Game Plan'
 media_order: gameplan.jpg
-date: '19:05 03-02-2020'
+date: '19:05 02-05-2018'
+taxonomy:
+    tag:
+        - Square
+        - 'Acrylic on canvas'
+        - 'MA Show 2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -12,6 +17,7 @@ feed:
     limit: 10
 ---
 
+![](gameplan.jpg)
 Game Plan, _2018_  
 Acrylic and Chalk on Canvas  
 100 x 100 cm
