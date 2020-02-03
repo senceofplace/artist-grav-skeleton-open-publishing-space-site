@@ -1,6 +1,7 @@
 ---
 title: 'Lines Forged on the Playing Field'
-date: '16:36 03-02-2020'
+media_order: Lines_Forged_on_the_Playing_Field.jpg
+date: '16:36 31-05-2019'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -11,8 +12,7 @@ feed:
     limit: 10
 ---
 
-Your page summary goes here.
-
-===
-
-Your page content goes here.
+![](Lines_Forged_on_the_Playing_Field.jpg)  
+Lines Forged on the Playing Field, _2019_  
+Oil on Canvas  
+164 x 100 cm 
