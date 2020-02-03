@@ -4,9 +4,12 @@ media_order: '_MG_8823 copy.jpg'
 date: '16:19 10-05-2019'
 taxonomy:
     tag:
-        - 'MA Show 2019'
-        - 'Oil on Canvas'
         - Square
+        - 'Oil on Canvas'
+        - 'MA Show 2019'
+        - Flanker
+        - 'Studio 55'
+        - 'Hove Open Houses'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
