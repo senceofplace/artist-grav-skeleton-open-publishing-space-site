@@ -14,9 +14,7 @@ feed:
     limit: 10
 ---
 
-Your page summary goes here.
-
-===
-Edgoe of Flow, _2019_ 
+![](IMG_1443%20copy.jpg)
+Edge of Flow, _2019_ 
 Oil on Canvas 
 100 x 100 cm
