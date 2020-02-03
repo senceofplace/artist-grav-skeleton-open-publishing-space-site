@@ -1,5 +1,6 @@
 ---
 title: 'Game Plan'
+media_order: gameplan.jpg
 date: '19:05 03-02-2020'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -12,5 +13,5 @@ feed:
 ---
 
 Game Plan, _2018_  
-Acrylic on Canvas  
+Acrylic and Chalk on Canvas  
 100 x 100 cm
