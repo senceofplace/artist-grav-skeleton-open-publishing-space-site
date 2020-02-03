@@ -4,15 +4,16 @@ media_order: sweet_abandon.jpg
 date: '16:44 15-05-2019'
 taxonomy:
     tag:
-        - 'Studio 55'
-        - Flanker
         - Square
         - 'Oil on Canvas'
+        - Flanker
+        - 'Studio 55'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+header_image: '0'
 summary:
     enabled: '0'
 hide_from_post_list: false
