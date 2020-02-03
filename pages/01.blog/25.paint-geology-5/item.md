@@ -1,6 +1,12 @@
 ---
 title: 'Paint Geology 5'
-date: '18:54 03-02-2020'
+media_order: paint-geology-5.jpg
+date: '18:54 02-05-2018'
+taxonomy:
+    tag:
+        - 'MA Show 2018'
+        - Square
+        - 'Acrylic on MDF'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -11,6 +17,7 @@ feed:
     limit: 10
 ---
 
+![](paint-geology-5.jpg)
 Paint Geology 5, _2018_  
 Acrylic on MDF  
 60 x 60 cm
