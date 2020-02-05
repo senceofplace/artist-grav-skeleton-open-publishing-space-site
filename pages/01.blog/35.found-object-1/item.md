@@ -4,9 +4,9 @@ date: '14:12 05-03-2018'
 taxonomy:
     tag:
         - Square
+        - 'MA Show 2018'
         - Photograph
         - 'Found Object'
-        - 'MA Show 2018'
         - Digital
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -19,6 +19,7 @@ feed:
     limit: 10
 ---
 
+![](Found-Object-1.jpg)  
 Found Object 1, _2018_  
 Digital Photograph  
 5000 x 5000 px
