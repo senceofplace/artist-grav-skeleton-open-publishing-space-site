@@ -6,7 +6,7 @@ body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: studio.jpg
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 content:
