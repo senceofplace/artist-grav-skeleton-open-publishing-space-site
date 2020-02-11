@@ -1,6 +1,6 @@
 ---
 title: Contact
-published: false
+published: true
 date: '19:27 11-02-2020'
 hide_git_sync_repo_link: false
 form:
