@@ -6,8 +6,3 @@ visible: false
 position: top
 ---
 
-#### Markdown Area
-
-Some text here.
-
-[twitter url="https://twitter.com/joeains" text="Tweets by @joeains" height="600"]
