@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Home - Joe Ainsworth - Artist - Abstract Paintings - Brighton'
 media_order: studio.jpg
 hide_git_sync_repo_link: true
 sitemap:
@@ -34,5 +34,5 @@ modular_content:
 pagination: true
 ---
 
-# **Joe Ainsworth**
+## **Joe Ainsworth**
 ### Art Studio Brighton
