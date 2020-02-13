@@ -5,8 +5,8 @@ date: '18:29 15-05-2019'
 taxonomy:
     tag:
         - 'Oil on wood'
-        - '128 Show'
         - Square
+        - '128 Show'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](layer-detail.jpg)
+![](layer-detail.jpg?resize=600)
 Layer Detail, _2019_  
 Oil on Plywood  
 61 x 61 cm
