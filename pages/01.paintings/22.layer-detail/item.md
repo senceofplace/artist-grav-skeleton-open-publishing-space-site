@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](layer-detail.jpg?resize=600)
+![](layer-detail.jpg)
 Layer Detail, _2019_  
 Oil on Plywood  
 61 x 61 cm
