@@ -2,6 +2,8 @@
 title: Home
 media_order: studio.jpg
 hide_git_sync_repo_link: true
+sitemap:
+    changefreq: monthly
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: studio.jpg
@@ -24,8 +26,6 @@ display_post_summary:
 feed:
     limit: 10
     description: 'Sample Blog Description'
-sitemap:
-    changefreq: monthly
 modular_content:
     items: '@self.modular'
     order:
