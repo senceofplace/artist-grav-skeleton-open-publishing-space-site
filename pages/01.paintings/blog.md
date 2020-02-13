@@ -3,7 +3,7 @@ title: Home
 media_order: studio.jpg
 hide_git_sync_repo_link: true
 sitemap:
-    changefreq: monthly
+    changefreq: daily
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: studio.jpg
