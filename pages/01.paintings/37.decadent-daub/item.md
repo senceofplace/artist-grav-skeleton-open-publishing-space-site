@@ -1,12 +1,12 @@
 ---
 title: 'Decadent Daub'
-media_order: 'decadent-daub.jpg,decadent-daub-2.jpg'
+media_order: decadent-daub-2.jpg
 published: true
 date: '15:17 06-01-2020'
 taxonomy:
     tag:
         - 'Oil on wood'
-        - Multimedia
+        - 'Mixed Media'
 hide_git_sync_repo_link: true
 blog_url: /blog
 show_sidebar: true
