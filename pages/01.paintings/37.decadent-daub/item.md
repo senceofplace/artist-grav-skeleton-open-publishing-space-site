@@ -1,6 +1,6 @@
 ---
 title: 'Decadent Daub'
-media_order: decadent-daub.jpg
+media_order: 'decadent-daub.jpg,decadent-daub-2.jpg'
 published: true
 date: '15:17 06-01-2020'
 taxonomy:
@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](decadent-daub.jpg)
+![](decadent-daub-2.jpg)
 Decadent Daub  
 Oil and Acrylic on Plywood  
 39 x 37 cm
