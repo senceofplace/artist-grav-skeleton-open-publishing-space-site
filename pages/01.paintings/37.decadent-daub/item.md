@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![/paintings/decadent-daub](decadent-daub-2.jpg)
+[![Abstract Painting by Joe Ainsworth](decadent-daub-2.jpg)][/paintings/decadent/daub]
 Decadent Daub  
 Oil and Acrylic on Plywood  
 39 x 37 cm
