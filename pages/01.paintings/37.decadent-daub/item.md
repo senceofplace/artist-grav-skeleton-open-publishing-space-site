@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](decadent-daub-2.jpg)
+![/paintings/decadent-daub](decadent-daub-2.jpg)
 Decadent Daub  
 Oil and Acrylic on Plywood  
 39 x 37 cm
