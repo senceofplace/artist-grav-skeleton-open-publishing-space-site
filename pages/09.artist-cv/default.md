@@ -7,7 +7,7 @@ hide_git_sync_repo_link: true
 
 ## Joe Ainsworth
 
-###EXHIBITIONS
+###GROUP EXHIBITIONS
 2019 Untitled (MA Fine Art Show), University of Brighton  
 2019 The Clunker Art Vending Machine, Norwich Playhouse, Norwich  
 2019 The Clunker Art Vending Machine, Air Gallery, Altrincham  
