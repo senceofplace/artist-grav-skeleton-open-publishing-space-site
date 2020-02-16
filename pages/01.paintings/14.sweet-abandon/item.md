@@ -5,12 +5,12 @@ date: '16:44 15-05-2019'
 taxonomy:
     tag:
         - Square
+        - 'Studio 55'
         - 'Oil on Canvas'
         - Flanker
-        - 'Studio 55'
 hide_git_sync_repo_link: false
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
@@ -21,7 +21,7 @@ feed:
     limit: 10
 ---
 
-![](sweet_abandon.jpg)
+[![](sweet_abandon.jpg)](/paintings/sweet-abandon)
 Sweet Abandon, _2019_  
 Oil on Canvas  
 100 x 100 cm
