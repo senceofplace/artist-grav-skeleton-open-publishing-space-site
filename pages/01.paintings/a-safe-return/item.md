@@ -13,7 +13,7 @@ taxonomy:
         - 'Studio 55'
 hide_git_sync_repo_link: true
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
