@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](Fixonomy.jpg)
+[![](Fixonomy.jpg)](/paintings/fixonomy)
 Fixonomy, _2018_  
 Oil on Canvas  
 100 x 100 cm
