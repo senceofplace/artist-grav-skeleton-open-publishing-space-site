@@ -7,9 +7,9 @@ taxonomy:
         - Square
         - 'MA Show 2018'
         - 'Acrylic on MDF'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](paint-geology-5.jpg)
+[![](paint-geology-5.jpg)](/paintings/paint-geology-5)
 Paint Geology 5, _2018_  
 Acrylic on MDF  
 60 x 60 cm
