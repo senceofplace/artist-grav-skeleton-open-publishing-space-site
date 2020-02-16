@@ -9,3 +9,6 @@ process:
 
 [instagram.com/joeainsworthartist](https://instagram.com/joeainsworthartist)
 
+<a href="mailto:{{'joe@joeainsworth.com'|safe_email}}">
+  Email me
+</a>
