@@ -13,7 +13,7 @@ process:
   Email me
 </a>
 
-facebook.com/joeainsworthartist/](https://m.facebook.com/joeainsworthartist/)
+[facebook.com/joeainsworthartist/](https://m.facebook.com/joeainsworthartist/)
 
 [instagram.com/joeainsworthartist](https://instagram.com/joeainsworthartist)
 
