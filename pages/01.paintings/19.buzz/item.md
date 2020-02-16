@@ -17,7 +17,7 @@ feed:
     limit: 10
 ---
 
-![](_MG_8880%20copy.jpg)  
+[![](_MG_8880%20copy.jpg)](/paintings/buzz)  
 Buzz, _2019_  
 Oil and Acrylic on Plywood  
 61 x 61 cm
