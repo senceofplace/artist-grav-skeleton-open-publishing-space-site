@@ -5,8 +5,8 @@ date: '18:18 23-04-2019'
 taxonomy:
     tag:
         - 'Oil on wood'
-        - '128 Show'
         - Square
+        - '128 Show'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](focus-drift.jpg)  
+[![](focus-drift.jpg)](/paintings/focus-drift)  
 Focus Drift, _2019_  
 Oil on Plywood  
 61 x 61 cm  
