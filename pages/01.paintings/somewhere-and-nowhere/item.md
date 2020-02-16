@@ -10,9 +10,9 @@ taxonomy:
         - 'Hove Open Houses'
         - 'MA Show 2019'
         - 'Studio 55'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
@@ -21,7 +21,7 @@ feed:
     limit: 10
 ---
 
-![](3EEEB749-F57F-4759-BDBF-3DA10AF8A7A8.jpeg)  
+[![](3EEEB749-F57F-4759-BDBF-3DA10AF8A7A8.jpeg)](/paintings/somewhere-and-nowhere)  
 Somewhere and Nowhere, _2018_  
 Oil on plywood  
 29 x 29 cm
