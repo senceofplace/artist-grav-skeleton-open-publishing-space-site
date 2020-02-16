@@ -17,5 +17,5 @@ process:
 
 [instagram.com/joeainsworthartist](https://instagram.com/joeainsworthartist)
 
-[https://mobile.twitter.com/joeains](https://mobile.twitter.com/joeains)
+[twitter.com/joeains](twitter.com/joeains)
 
