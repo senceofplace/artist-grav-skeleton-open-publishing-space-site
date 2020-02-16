@@ -17,7 +17,7 @@ feed:
     limit: 10
 ---
 
-[![](Into%20Entropy.jpg)](/pintings/into-entropy)
+[![](Into%20Entropy.jpg)](/paintings/into-entropy)
 Into Entropy, _2019_  
 Oil on Plywood  
 80 x 56 cm  
