@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](pottery-shop.jpg)  
+[![](pottery-shop.jpg)](/paintings/pottery-shop)  
 Pottery Shop, _2019_  
 Oil on Plywood  
 80 x 56 cm
