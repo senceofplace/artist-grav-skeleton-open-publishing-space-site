@@ -6,12 +6,12 @@ taxonomy:
         - 'Three Feet in the Air'
         - 'Oil on wood'
         - Square
-        - 'MA Show 2019'
         - 'Hove Open Houses'
+        - 'MA Show 2019'
         - 'Studio 55'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
@@ -20,7 +20,7 @@ feed:
     limit: 10
 ---
 
-![](0BA3D1BA-00B2-4D2F-A95D-3CBEB324625F.jpeg)  
+[![](0BA3D1BA-00B2-4D2F-A95D-3CBEB324625F.jpeg)](/paintings/new-ground)  
 New Ground, _2018_  
 Oil on plywood  
 29 x 29 cm
