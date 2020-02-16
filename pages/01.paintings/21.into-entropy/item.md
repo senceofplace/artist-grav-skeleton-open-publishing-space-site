@@ -6,7 +6,7 @@ taxonomy:
     tag:
         - 'Oil on wood'
         - Flanker
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
