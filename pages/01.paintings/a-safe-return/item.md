@@ -8,10 +8,10 @@ taxonomy:
         - 'Three Feet in the Air'
         - 'Oil on wood'
         - Square
-        - 'Studio 55'
-        - 'MA Show 2019'
         - 'Hove Open Houses'
-hide_git_sync_repo_link: false
+        - 'MA Show 2019'
+        - 'Studio 55'
+hide_git_sync_repo_link: true
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
