@@ -19,7 +19,7 @@ feed:
     limit: 10
 ---
 
-![](the-cloud-2.jpg)
+[![](the-cloud-2.jpg)](/paintings/the-cloud)
 The Cloud, _2019_  
 Oil on douglas fir  
 39 x 33 cm  
