@@ -5,14 +5,14 @@ date: '16:19 10-05-2019'
 taxonomy:
     tag:
         - Square
-        - 'Oil on Canvas'
-        - 'MA Show 2019'
-        - Flanker
-        - 'Studio 55'
         - 'Hove Open Houses'
+        - 'MA Show 2019'
+        - 'Studio 55'
+        - 'Oil on Canvas'
+        - Flanker
 hide_git_sync_repo_link: false
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
@@ -21,7 +21,7 @@ feed:
     limit: 10
 ---
 
-![](_MG_8823-copy.jpg)
+[![](_MG_8823-copy.jpg)](/paintings/edge-of-flow)
 Choreography, _2019_  
 Oil on Canvas  
 100 x 100 cm
