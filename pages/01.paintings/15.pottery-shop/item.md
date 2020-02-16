@@ -7,7 +7,7 @@ taxonomy:
         - 'Oil on wood'
         - 'MA Show 2019'
         - Flanker
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
