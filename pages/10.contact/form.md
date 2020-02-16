@@ -17,3 +17,6 @@ process:
 
 [instagram.com/joeainsworthartist](https://instagram.com/joeainsworthartist)
 
+[twitter.com/joeains]
+(https://twitter.com/joeains.com)
+
