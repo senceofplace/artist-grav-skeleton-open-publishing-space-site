@@ -7,8 +7,11 @@ process:
     twig: true
 ---
 
-[instagram.com/joeainsworthartist](https://instagram.com/joeainsworthartist)
+##Contact
 
 <a href="mailto:{{'joe@joeainsworth.com'|safe_email}}">
   Email me
 </a>
+
+[instagram.com/joeainsworthartist](https://instagram.com/joeainsworthartist)
+
