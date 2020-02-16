@@ -21,7 +21,7 @@ feed:
     limit: 10
 ---
 
-[![](_MG_8823-copy.jpg)](/paintings/edge-of-flow)
+[![](_MG_8823-copy.jpg)](/paintings/choreography)
 Choreography, _2019_  
 Oil on Canvas  
 100 x 100 cm
