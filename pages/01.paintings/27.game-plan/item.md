@@ -7,9 +7,9 @@ taxonomy:
         - Square
         - 'Acrylic on canvas'
         - 'MA Show 2018'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-![](gameplan.jpg)
+[![](gameplan.jpg)](/paintings/game-plan)
 Game Plan, _2018_  
 Acrylic and Chalk on Canvas  
 100 x 100 cm
