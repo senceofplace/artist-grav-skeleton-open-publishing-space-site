@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-[![](_MG_8409%20copy.jpg)](/paintings/mountain-forge)  
+[![](_MG_8409%20copy.jpg)](/paintings/functional-pass)  
 Functional Pass, _2019_  
 Oil on Plywood  
 61 x 61 cm
