@@ -43,7 +43,9 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
+facebookdesc: 'Artist making abstract paintings which explore visual language and gesture, informed by observations of the natural and man-made environment.'
 facebookauthor: 'https://m.facebook.com/joeainsworthartist/'
+facebookimg: /paintings/decadent-daub/decadent-daub-2.jpg
 modular_content:
     items: '@self.modular'
     order:
