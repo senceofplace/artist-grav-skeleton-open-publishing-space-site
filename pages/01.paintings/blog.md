@@ -40,13 +40,13 @@ orga:
     ratingValue: 2.5
 orgaratingenabled: false
 eventenabled: false
-personenabled: false
+personenabled: true
 addperson:
     -
         person_name: 'Joe Ainsworth'
         person_jobTitle: Artist
-        person_address_addressLocality: 'The Annexe'
-        person_address_addressRegion: Brighton
+        person_address_addressLocality: Brighton
+        person_address_addressRegion: 'East Sussex'
 restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
