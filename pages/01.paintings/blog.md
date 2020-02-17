@@ -30,6 +30,9 @@ googletitle: 'Joe Ainsworth - Artist - Painter - Abstract Paintings  - Brighton'
 googledesc: 'Artist making abstract paintings which explore visual language and gesture, informed by observations of the natural and man-made environment.'
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /paintings/studio.jpg
+twittertitle: 'Joe Ainsworth - Artist Website'
+twitterdescription: 'Artist making abstract paintings which explore visual language and gesture, informed by observations of the natural and man-made environment.'
 articleenabled: false
 article:
     image_url: /paintings/studio.jpg
@@ -37,7 +40,7 @@ article:
 musiceventenabled: false
 orgaenabled: false
 orga:
-    ratingValue: 2.5
+    ratingValue: 5
 orgaratingenabled: false
 eventenabled: false
 personenabled: true
