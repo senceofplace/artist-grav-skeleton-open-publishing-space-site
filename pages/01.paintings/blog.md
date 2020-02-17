@@ -67,6 +67,8 @@ orga:
             sameas: 'https://instagram.com/joeainsworthartist'
         -
             sameas: 'https://www.linkedin.com/in/joeains/'
+        -
+            sameas: 'https://mobile.twitter.com/joeains'
 orgaratingenabled: false
 eventenabled: false
 personenabled: true
