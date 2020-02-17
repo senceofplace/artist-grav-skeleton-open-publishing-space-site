@@ -95,4 +95,4 @@ pagination: true
 ---
 
 ## **Joe Ainsworth**
-### Abstract Paintings | Brighton | UK
+### Abstract Paintings
