@@ -26,7 +26,7 @@ display_post_summary:
 feed:
     limit: 10
     description: 'Sample Blog Description'
-googletitle: 'Joe Ainsworth | Abstract Paintings | Brighton | UK'
+googletitle: 'Joe Ainsworth - Artist - Painter - Abstract Paintings  - Brighton'
 googledesc: 'Artist making abstract paintings which explore visual language and gesture, informed by observations of the natural and man-made environment.'
 twitterenable: true
 twittercardoptions: summary
