@@ -6,4 +6,6 @@ visible: false
 ---
 
 [facebook](https://www.facebook.com/joeainsworthartist/) 
-[instagram](https://www.instagram.com/joeainsworthartist/)
+[instagram](https://www.instagram.com/joeainsworthartist/) 
+[twitter](https://twitter.com/joeains) 
+[linkedin](https://www.linkedin.com/in/joeains/)
