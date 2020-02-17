@@ -1,3 +1,37 @@
+# v2.1.0
+## 02/13/2020
+
+1. [](#new)
+  * Updated demo pages in theme '_demo' folder
+
+# v2.0.9
+## 02/06/2020
+
+1. [](#new)
+  * Support for Menu property in Sections pages (thanks to @awrog for the suggestion and initial Twig)
+
+# v2.0.8
+## 01/21/2020
+
+1. [](#new)
+  * Support for ReadingTime Plugin (thanks to @B1gG for the initial PR)
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+1. [](#bugfix)
+  * Restored display of taxonomy tags on blog post pages (Sections pages now use the `filter` taxonomy item, which is also needed to be in Taxonomy `site.yaml` config)
+
+# v2.0.7
+## 01/02/2020
+
+1. [](#improved)
+  * Updated CSS for left/right image alignment (thanks to @OleVik)
+
+# v2.0.6
+## 12/18/2019
+
+1. [](#new)
+  * Support for custom links (e.g. PDFs) with embedded Presentations
+
 # v2.0.5
 ## 12/08/2019
 

@@ -26,6 +26,19 @@ display_post_summary:
 feed:
     limit: 10
     description: 'Sample Blog Description'
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 modular_content:
     items: '@self.modular'
     order:
@@ -35,4 +48,4 @@ pagination: true
 ---
 
 ## **Joe Ainsworth**
-### Art Studio Brighton
+### Abstract Paintings Brighton
