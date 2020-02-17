@@ -43,6 +43,7 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
+facebookauthor: 'https://m.facebook.com/joeainsworthartist/'
 modular_content:
     items: '@self.modular'
     order:
