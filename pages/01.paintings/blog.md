@@ -38,9 +38,35 @@ article:
     image_url: /paintings/studio.jpg
     publisher_name: 'Joe Ainsworth'
 musiceventenabled: false
-orgaenabled: false
+orgaenabled: true
 orga:
+    name: 'Joe Ainsworth Artist'
+    description: 'British Artist Making Abstract Paintings'
+    legalname: 'Joe Ainsworth'
+    streetaddress: '43 Belmont Street'
+    city: Brighton
+    state: 'East Sussex'
+    zipcode: 'BN1 4HN'
+    areaserved:
+        -
+            area: 'Brighton and Hove'
+        -
+            area: 'East Sussex'
+        -
+            area: London
+    url: 'https://joeainsworth.com'
     ratingValue: 5
+    foundingDate: '2000'
+    founders:
+        -
+            name: 'Joe Ainsworth'
+    similar:
+        -
+            sameas: 'https://facebook.com/joeainsworthartist/'
+        -
+            sameas: 'https://instagram.com/joeainsworthartist'
+        -
+            sameas: 'https://www.linkedin.com/in/joeains/'
 orgaratingenabled: false
 eventenabled: false
 personenabled: true
