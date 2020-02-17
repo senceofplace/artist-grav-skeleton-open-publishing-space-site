@@ -39,6 +39,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookenable: true
 modular_content:
     items: '@self.modular'
     order:
