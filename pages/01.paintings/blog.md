@@ -31,6 +31,9 @@ googledesc: 'Artist making abstract paintings which explore visual language and 
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
+article:
+    image_url: /paintings/studio.jpg
+    publisher_name: 'Joe Ainsworth'
 musiceventenabled: false
 orgaenabled: false
 orga:
@@ -38,6 +41,12 @@ orga:
 orgaratingenabled: false
 eventenabled: false
 personenabled: false
+addperson:
+    -
+        person_name: 'Joe Ainsworth'
+        person_jobTitle: Artist
+        person_address_addressLocality: 'The Annexe'
+        person_address_addressRegion: Brighton
 restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
