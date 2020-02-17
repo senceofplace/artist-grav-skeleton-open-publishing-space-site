@@ -27,7 +27,8 @@ feed:
     limit: 10
     description: 'Sample Blog Description'
 googletitle: 'Joe Ainsworth | Abstract Paintings | Brighton | UK'
-googledesc: 'Joe Ainsworth’s paintings explore visual language and gesture, informed by observations of the natural and man-made environment.'
+googledesc: 'Artist making abstract paintings which explore visual language and gesture, informed by observations of the natural and man-made environment.'
+twitterenable: true
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
