@@ -1,5 +1,5 @@
 ---
-title: mud-fight-at-sea
+title: 'Mud Fight at Sea'
 media_order: mud-fight-at-sea.jpg
 published: true
 date: '18:00 17-01-2020'
