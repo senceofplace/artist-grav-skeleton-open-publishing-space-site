@@ -40,7 +40,7 @@ facebookdesc: 'Mud Fight at Sea, 2020, Oil on plywood, 60 x 61 cm'
 facebookauthor: 'https://www.facebook.com/joeainsworthartist'
 ---
 
-![](mud-fight-at-sea.jpg)  
+[![](mud-fight-at-sea.jpg)](/paintings/mudfightatsea)  
 Mud Fight at Sea  
 Oil on plywood  
 60 x 61 cm  
