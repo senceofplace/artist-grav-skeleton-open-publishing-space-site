@@ -20,6 +20,7 @@ googletitle: 'Joe Ainsworth - Paintings - Mud Fight at Sea'
 googledesc: 'Abstract painting, Mud Fight at Sea, 2020, Oil on plywood, 60 x 61 cm by the Artist Joe Ainsworth'
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /paintings/mudfightatsea/mud-fight-at-sea.jpg
 twittertitle: 'Mud Fight at Sea by Joe Ainsworth'
 twitterdescription: 'Mud Fight at Sea, 2020, Oil on plywood, 60 x 61 cm'
 articleenabled: false
