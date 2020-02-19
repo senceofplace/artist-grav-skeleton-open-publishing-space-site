@@ -41,6 +41,6 @@ facebookauthor: 'https://www.facebook.com/joeainsworthartist'
 ---
 
 ![](mud-fight-at-sea.jpg)  
-Mud Fight at Sea
-Oil on plywood
-60 x 61 cm
+Mud Fight at Sea  
+Oil on plywood  
+60 x 61 cm  
