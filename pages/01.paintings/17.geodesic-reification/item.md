@@ -1,6 +1,6 @@
 ---
 title: 'Geodesic Reification'
-media_order: Geodesic_reification.jpg
+media_order: geodesic-reification@x3.jpg
 date: '17:23 21-06-2019'
 taxonomy:
     tag:
@@ -16,9 +16,22 @@ header_image: '0'
 hide_from_post_list: false
 feed:
     limit: 10
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 ---
 
-[![](Geodesic_reification.jpg)](/paintings/geodesic-reification)
+[![](geodesic_reification@x3.jpg)](/paintings/geodesic-reification)
 Geodesic Reification  
 Acrylic Paint on Laser Cut Plywood  
 130 x 130 x 100 cm
