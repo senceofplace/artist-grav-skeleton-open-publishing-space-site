@@ -1,6 +1,6 @@
 ---
 title: 'Decadent Daub'
-media_order: 'decadent-daub-2.jpg,decadent-daub@x3.jpg'
+media_order: decadent-daub@x3.jpg
 published: true
 date: '15:17 06-01-2020'
 taxonomy:
