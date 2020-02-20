@@ -31,7 +31,7 @@ restaurant:
     priceRange: $
 ---
 
-[![](geodesic_reification@x3.jpg)](/paintings/geodesic-reification)
+[![](geodesic-reification@x3.jpg)](/paintings/geodesic-reification)
 Geodesic Reification  
 Acrylic Paint on Laser Cut Plywood  
 130 x 130 x 100 cm
