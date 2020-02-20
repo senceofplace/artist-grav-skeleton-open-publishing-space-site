@@ -1,6 +1,6 @@
 ---
 title: 'Layer Detail'
-media_order: layer-detail.jpg
+media_order: 'layer-detail.jpg,layer-detail@x3.jpg'
 date: '18:29 15-05-2019'
 taxonomy:
     tag:
@@ -16,9 +16,22 @@ header_image: '0'
 hide_from_post_list: false
 feed:
     limit: 10
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 ---
 
-[![](layer-detail.jpg)](/paintings/layer-detail)
+[![](layer-detail@x3.jpg)](/paintings/layer-detail)  
 Layer Detail, _2019_  
 Oil on Plywood  
 61 x 61 cm
