@@ -1,6 +1,6 @@
 ---
 title: 'Layer Detail'
-media_order: 'layer-detail.jpg,layer-detail@x3.jpg'
+media_order: layer-detail@x3.jpg
 date: '18:29 15-05-2019'
 taxonomy:
     tag:
