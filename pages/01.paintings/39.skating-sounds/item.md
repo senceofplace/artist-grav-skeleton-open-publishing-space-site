@@ -1,10 +1,11 @@
 ---
 title: 'Skating Sounds'
+media_order: skating-sounds.jpg
 date: '13:35 13-11-2019'
 taxonomy:
     tag:
-        - 'Mixed Media'
         - Square
+        - 'Mixed Media'
     author:
         - 'Joe Ainsworth'
 hide_git_sync_repo_link: true
@@ -32,6 +33,7 @@ restaurant:
     priceRange: $
 ---
 
+![](skating-sounds.jpg)
 Skating Sounds, _2019_
 Acryic and oil paint on canvas
 57 x 57 cm
