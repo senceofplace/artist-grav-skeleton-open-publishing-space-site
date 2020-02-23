@@ -42,7 +42,7 @@ facebookauthor: 'https://www.facebook.com/joeainsworthartist'
 facebookimg: /paintings/skating-sounds/skating-sounds.jpg
 ---
 
-![](skating-sounds.jpg)
+[![](skating-sounds.jpg)](/paintings/skating-sounds)
 Skating Sounds, _2019_
 Acryic and oil paint on canvas
 57 x 57 cm
