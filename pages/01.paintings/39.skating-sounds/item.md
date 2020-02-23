@@ -44,7 +44,7 @@ facebookimg: /paintings/skating-sounds/skating-sounds.jpg
 ---
 
 [![](skating-sounds@x3.jpg)](/paintings/skating-sounds)
-Skating Sounds, _2019_
-Acryic and oil paint on canvas
+Skating Sounds, _2019_  
+Acryic and oil paint on canvas  
 57 x 57 cm
 
