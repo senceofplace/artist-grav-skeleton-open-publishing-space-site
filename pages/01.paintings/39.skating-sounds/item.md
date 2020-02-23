@@ -1,7 +1,7 @@
 ---
 title: 'Skating Sounds'
 media_order: skating-sounds.jpg
-date: '13:35 13-11-2019'
+date: '12:45 23-02-2020'
 taxonomy:
     tag:
         - Square
@@ -19,7 +19,13 @@ feed:
     limit: 10
 googledesc: "Abstract Painting 'Skating Sounds' by Joe Ainsworth - \r\nAcrylic and oil paint on canvas, 57 x 57 cm"
 twittercardoptions: summary
-articleenabled: false
+twittershareimg: /paintings/skating-sounds/skating-sounds.jpg
+articleenabled: true
+article:
+    datePublished: '23-02-2020 12:44'
+    dateModified: '23-02-2020 12:44'
+    image_url: /paintings/skating-sounds/skating-sounds.jpg
+    author: 'Joe Ainsworth'
 musiceventenabled: false
 orgaenabled: false
 orga:
@@ -31,6 +37,8 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookauthor: 'https://www.facebook.com/joeainsworthartist'
+facebookimg: /paintings/skating-sounds/skating-sounds.jpg
 ---
 
 ![](skating-sounds.jpg)
