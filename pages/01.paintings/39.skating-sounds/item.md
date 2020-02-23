@@ -18,6 +18,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 googledesc: "Abstract Painting 'Skating Sounds' by Joe Ainsworth - \r\nAcrylic and oil paint on canvas, 57 x 57 cm"
+twitterenable: true
 twittercardoptions: summary
 twittershareimg: /paintings/skating-sounds/skating-sounds.jpg
 articleenabled: true
@@ -37,6 +38,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookenable: true
 facebookauthor: 'https://www.facebook.com/joeainsworthartist'
 facebookimg: /paintings/skating-sounds/skating-sounds.jpg
 ---
