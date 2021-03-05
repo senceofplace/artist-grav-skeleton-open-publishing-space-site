@@ -19,9 +19,6 @@ hide_git_sync_repo_link: true
 2017 Nice Try, Room 128, University of Brighton  
 
 ###EDUCATION        
-2019 MA Fine Art, University of Brighton, Brighton  
-2000 BA (Hons) Fine Art Painting, University of Brighton, Brighton  
-1997 Foundation Art & Design, MMU, Manchester  
-
-###TEACHING  
-2016 Lecturer: Photography, Mid Cheshire College, Northwich  
+2019 MA Fine Art, University of Brighton
+2000 BA (Hons) Fine Art Painting, University of Brighton 
+1997 Foundation Art & Design, MMU, Manchester
