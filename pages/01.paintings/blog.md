@@ -1,9 +1,8 @@
 ---
 title: Home
 media_order: studio.jpg
+published: true
 hide_git_sync_repo_link: true
-sitemap:
-    changefreq: daily
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-medium parallax'
 hero_image: studio.jpg
@@ -26,6 +25,8 @@ display_post_summary:
 feed:
     limit: 10
     description: 'Sample Blog Description'
+sitemap:
+    changefreq: daily
 googletitle: 'Joe Ainsworth - Artist - Painter - Abstract Paintings  - Brighton'
 googledesc: 'Artist making abstract paintings which explore visual language and gesture, informed by observations of the natural and man-made environment.'
 twitterenable: true
