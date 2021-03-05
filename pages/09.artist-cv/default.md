@@ -12,8 +12,8 @@ hide_git_sync_repo_link: true
 2019 The Clunker, Norwich Playhouse, Norwich  
 2019 The Clunker, Air Gallery, Altrincham  
 2019 Flanker, Fishing Quarter Gallery, Brighton  
-2019 University of Brighton  
-2018 Three Feet in the Air, Room 128, University of Brighton  
+2019 128 Show, University of Brighton  
+2018 Three Feet in the Air, University of Brighton  
 2018 MA Fine Art Summer Show, University of Brighton  
 2018 A Whiff of Art, The Bees Mouth, Brighton  
 2017 Nice Try, Room 128, University of Brighton  
