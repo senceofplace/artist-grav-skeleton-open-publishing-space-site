@@ -2,6 +2,10 @@
 title: 'Toucan Dream'
 published: true
 date: '16:56 04-03-2021'
+taxonomy:
+    tag:
+        - 'Oil on Canvas'
+        - Square
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
